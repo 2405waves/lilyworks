@@ -1,0 +1,332 @@
+.header{
+  width: 1480px;height: 122px;margin: 0 auto;
+}
+.header_a{
+  width: 1300px;height: 122px;float: left;
+}
+.header_b{
+  width: 180px;height: 122px;float: left;
+}
+.header_a1{
+  width: 122px;height: 122px;float: left;
+}
+.header_a1 img{
+  width: 122px;height: 122px;
+}
+.header_a2{
+  width: 280px;height: 122px;float: left;text-align: center;padding-top:42px;
+}
+.header_a2 p:nth-child(1) a{
+  font-size: 24px;color: #009900;
+}
+.header_a2 p:nth-child(2) a{
+  font-size:16px;color:#66cc66;
+}
+.header_a3{
+  width: 890px;height: 122px;float: left;margin-left:6px;
+}
+.header_a3 ul li{
+  width: 122px;height: 122px;text-align: center;line-height: 122px;float: left;
+}
+.header_a3 ul li a{
+  color: #003300;font-size: 18px;
+}
+.header_a3 ul li a:hover{
+  color:#009900;
+}
+hr{
+  margin-top:-10px;width:90px;height:3px;background:#029a00;margin-left:16px;
+}
+.header_b1{
+  display: block;width: 66px;height: 24px;float: left;background:#33cc00 ;margin-top:46px;text-align: center;
+  line-height: 24px;border-radius:6px; 
+}
+.header_b2{
+  display: block;width: 76px;height: 24px;float: left;border: 1px solid #33cc00;margin-top:46px;
+  line-height: 24px;margin-left:38px;text-align: center;border-radius:6px;
+}
+.header_b1 a{
+  color: white;
+}
+.header_b2 a{
+  color: #33cc00;
+}
+.pic_bg{
+  background: url(../img/banner.jpg) no-repeat center center;height:620px;width:100%;background-size: cover;
+}
+.about{
+  width: 1200px;height:186px;margin: 0 auto;background: url(../img/maintop.jpg) no-repeat;margin-top: 78px; 
+  position: relative;
+}
+.about1 a{
+  font-family: Adobe Caslon;font-size: 48px;color: #33cc00;font-weight: bold;
+}
+.about2 a{
+  font-size: 18px;color: #666666;
+}
+.about3 a{
+  font-size: 12px;color: #cccccc;
+}
+.about1{
+  position: absolute;left:462px ;top:48px;
+}
+.about2{
+  position: absolute;left:564px ;top:130px;
+}
+.about3{
+  position: absolute;left:375px ;top:158px;
+}
+.pic_words{
+  width: 1200px;height:380px;margin: 0 auto;margin-top:36px;overflow: hidden;position: relative;
+}
+.pic_words ul li{
+  width: 380px;height:380px;margin-left:15px ;float:left ;border: 1px solid #f1f1f1 ;
+  font-size: 14px;color: #999999;line-height:21px;position: relative;
+}
+.pic_words1{
+  width: 350px;margin: 0 auto;
+}
+.pic_words2{
+  color: #666666;
+}
+.pic_words3{
+  position: absolute;left:300px ;bottom:1px ;color: #999999;
+}
+.map{
+  width: 1200px;height: 378px;margin: 0 auto;margin-top: 40px;
+}
+.map_words{
+  width: 782px;height: 378px;float: left;background: pink;margin-left:40px;
+}
+.person_words{
+  float: left;width:378px;height:378px;border: 1px solid #f1f1f1 ;
+}
+.person_words p{
+  color: #999999;font-size: 14px;padding-left:28px;line-height:24px;
+}
+.footer{
+  width:100%;height: 242px;background:#ececec ;margin-top:90px ;
+}
+.tail{
+  width: 1200px;height: 242px;margin: 0 auto;
+}
+h1{
+ font-size: 22px;color: #009900;text-align: center;padding-top: 58px;
+}
+.tail_words1 {
+  color: #999999;font-size: 12px;margin-top: 20px;text-align: center;
+}
+.tail_words{
+  text-align: center;width:910px;margin: 12px auto;
+}
+.tail_words ul li{
+ color: #999999; text-align: center;float:left;width:100px;height: 12px;
+ border-right: 1px solid #999999;
+}
+.tail_words ul li:last-child{
+  border-right: none;
+}
+.tail_pic{
+  text-align: center;margin-top: 14px;
+}
+.clear{
+  clear: both;
+}
+/*********************************************product css****************************************/
+.line_a{
+  width: 100%;border-top: 1px solid #999999;
+}
+.header_p{
+  width: 1200px;margin: 0 auto;height: 200px;
+}
+.header_p1{
+  height: 200px;margin-left: 242px;
+}
+.header_p1 ul li{
+  height:200px;width:172px;float: left;
+}
+.header_p1 ul li a:hover{
+  background: #06bc01;color:white;
+}
+.banner{
+  width: 100%;height: 592px;
+  background: url(../img/02banner.jpg)no-repeat;background-size:100% 100% ;
+}
+.center{
+  width: 1200px;margin: 0 auto;height:96px;
+}
+.center p:nth-child(1) a{
+  font-size: 24px;color: #333333;
+}
+.center p:nth-child(2) a{
+  color: #999999;
+}
+.center p:nth-child(1){
+  margin-top: 40px;
+}
+.center p:nth-child(2){
+  margin-top:18px;
+}
+.picture{
+  width: 1200px;margin: 0 auto;height:1074px;border-bottom: 1px solid #999999;text-align: center; 
+}
+.picture ul li{
+  float: left;text-align: center;width: 300px;margin-top:48px;
+}
+.picture ul li p a{
+  color: #333333;font-size: 24px;
+}
+/******************************************************company css******************************/
+.banner2{
+  width: 100%;height: 592px;
+  background: url(../img/03banner.jpg)no-repeat;background-size:100% 100% ;
+}
+.creat{
+  width: 1200px;margin: 0 auto;height: 210px;margin-top: 48px;
+}
+.creat_pic {
+  height: 210px;width: 558px;float: left;
+}
+.creat_words{
+  width: 642px;height: 210px;float: left;background:#f1f4f1 ;
+}
+.creat_words p:nth-child(1) a{
+  font-size: 36px;font-family: "宋体";color: #00cc00;
+}
+.creat_words p:nth-child(2) a{
+  color: #cccccc;font-size: 18px;font-family:Arial ;
+}
+.creat_words p:nth-child(1){
+  padding-top: 72px;padding-left:90px ;
+}
+.creat_words p:nth-child(2){
+  padding-top:14px;padding-left:90px ;
+}
+.words{
+  width: 1200px;margin: 0 auto;height:426px;
+}
+.center2{
+  width: 1200px;margin: 0 auto;height:96px;
+}
+.center2 p:nth-child(1) a{
+  font-size: 20px;color: #009900;
+}
+.center2 p:nth-child(2) a{
+  color: #999999;
+}
+.center2 p:nth-child(1){
+  margin-top: 40px;
+}
+.center2 p:nth-child(2){
+  margin-top:18px;
+}
+/*************************************************link css**************************************/
+.line_a2{
+  width: 100%;border-top: 1px solid #999999;
+}
+.header_p3{
+  width: 1200px;margin: 0 auto;height: 200px;
+}
+.header_p2{
+  height: 200px;margin-left:366px;
+}
+.header_p2 ul li{
+  height:200px;width:172px;float: left;
+}
+.header_p2 ul li a:hover{
+  background: #06bc01;color:white;
+}
+.banner3{
+  width: 100%;height: 592px;
+  background: url(../img/04banner.jpg)no-repeat;background-size:100% 100% ;
+}
+.map2{
+  width: 1136px;height: 370px;margin: 0 auto;background: pink;margin-top: 40px;
+}
+.person_words2{
+  font-size: 20px;color: black;padding-left:76px;display:block;line-height:86px;
+}
+.map3{
+  width: 1136px;height: 382px;margin: 0 auto;margin-top: 40px;
+}
+.map_words1{
+  width:528px;height:382px;float: left;margin-left:228px; 
+}
+.person_words1{
+  float: left;width:378px;height:382px;
+}
+.person_words1 p{
+  color: #999999;font-size: 14px;padding-left:76px;line-height:30px;
+}
+.map_words1 p{
+  font-size: 14px;color: #000000;
+}
+#emil,#num{
+  color: #cccccc;
+}
+.map_words1_a{ 
+  color: #cccccc;font-size: 12px;margin-top:16px;
+}
+#emil{
+  width: 260px;height:20px;margin-top:32px;
+}
+#num{
+  width: 170px;height: 20px;margin-top:16px;
+}
+#sub{
+  width: 56px;height: 20px;background: white;line-height: 20px;margin-left:406px;margin-top:126px;
+}
+/****************************************news css******************************************/
+.banner4{
+  width: 100%;height: 592px;
+  background: url(../img/05banner1.jpg)no-repeat;background-size:100% 100% ;
+}
+.news_words{
+  width: 1200px;margin: 0 auto;margin-top: 42px;height: 1220px;border-bottom: 1px solid #999999;
+}
+.news_words1,.news_words2,.news_words3{
+  text-align: center;display: block;
+}
+.news_words4{
+  width: 1004px;display: block;margin: 0 auto;color: #333333;font-size: 14px;text-indent:28px ;margin-top: 46px;
+}
+.news_words1{
+  font-size: 18px;color: #333333;
+}
+.news_words2{
+ color: #009900;line-height:40px;
+}
+.news_words3{
+  margin-top: 40px;
+}
+h2{
+  color: #999999;display: block;width: 1200px;margin: 0 auto;font-size: 12px;margin-top: 32px;
+}
+.jump{
+  width: 502px;height:22px;margin:0  auto;margin-top: 30px;
+}
+.jump span{
+  margin-left: 3px;
+}
+.jump input{
+  text-align: center;line-height: 22px;color: #999999;height: 22px;border-radius: 4px;background: white;font-family: Arial;
+}
+.jump1 input{
+  width: 24px;
+}
+.jump3 input{
+  width: 58px;
+}
+.jump4 input{
+  width: 32px;border: none;border: 1px solid gainsboro;
+}
+.jump4{
+  color: #333333;
+}
+.jump2 input{
+  width: 48px;
+}
+.map_words1_p{
+  margin-left: 2px;margin-top:-96px;
+}
+
